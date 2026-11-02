@@ -10,6 +10,7 @@ import { Roadmap } from "@/components/Roadmap"
 import { Publications } from "@/components/Publications"
 import { Press } from "@/components/Press"
 import { KnowledgeCenter } from "@/components/KnowledgeCenter"
+import { Inception } from "@/components/Inception"
 import { Contact } from "@/components/Contact"
 import { Footer } from "@/components/Footer"
 import { ToastProvider } from "@/components/ui/toast"
@@ -30,6 +31,7 @@ export default function App() {
           <Publications />
           <Press />
           <KnowledgeCenter />
+          <Inception />
           <Contact />
         </main>
         <Footer />
