@@ -203,10 +203,10 @@ export function Press() {
                             Founder, NEW MEMS
                             <br />
                             <a
-                              href="mailto:fadi1m@yahoo.com"
+                              href="mailto:fadi@newmems.com"
                               className="text-primary hover:underline"
                             >
-                              fadi1m@yahoo.com
+                              fadi@newmems.com
                             </a>{" "}
                             ·{" "}
                             <a
@@ -310,8 +310,8 @@ export function Press() {
           </div>
           <div className="flex gap-3">
             <Button asChild variant="outline" className="gap-2">
-              <a href="mailto:fadi1m@yahoo.com">
-                <Mail className="w-4 h-4" /> fadi1m@yahoo.com
+              <a href="mailto:fadi@newmems.com">
+                <Mail className="w-4 h-4" /> fadi@newmems.com
               </a>
             </Button>
             <Button asChild className="gap-2">

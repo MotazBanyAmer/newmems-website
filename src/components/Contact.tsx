@@ -53,13 +53,13 @@ export function Contact() {
               </a>
 
               <a
-                href="mailto:fadi1m@yahoo.com"
+                href="mailto:fadi@newmems.com"
                 className="flex items-center gap-4 text-muted-foreground hover:text-foreground transition-colors group"
               >
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
                   <Mail className="w-5 h-5 text-primary" />
                 </div>
-                <div className="text-lg">fadi1m@yahoo.com</div>
+                <div className="text-lg">fadi@newmems.com</div>
               </a>
             </div>
           </div>
